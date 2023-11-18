@@ -2,6 +2,7 @@ languageCode = "en"
 languageName = "English"
 languageDirection = "ltr"
 timeZone = "Australia/ACT"
+disqusShortname = "bennytek"
 weight = 1
 
 title = "Bennytek's Blog"

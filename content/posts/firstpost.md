@@ -9,6 +9,7 @@ showDate: true
 showAuthor: true
 showReadingTime: true
 showEdit: false
+showComments: true
 ---
 
 {{< lead >}}
