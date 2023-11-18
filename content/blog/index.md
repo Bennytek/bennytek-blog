@@ -3,7 +3,7 @@ title: "Testing"
 date: 2023-11-01
 draft: false
 description: "Some real-life Congo examples."
-slug: "users"
+slug: "first-blog-post"
 tags: ["users", "sample"]
 showDate: true
 showAuthor: true
