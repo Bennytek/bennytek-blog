@@ -1,6 +1,7 @@
 languageCode = "en"
 languageName = "English"
 languageDirection = "ltr"
+timeZone = "Australia/ACT"
 weight = 1
 
 title = "Congo"
