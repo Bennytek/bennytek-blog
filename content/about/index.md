@@ -10,6 +10,7 @@ showAuthor: false
 showReadingTime: false
 showEdit: false
 showComments: false
+showWordCount = false
 ---
 
 Hello! My name is Ben, and I'm currently a student at Charles Sturt University studying a Bachelor of Information Technology.
