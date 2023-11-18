@@ -15,7 +15,7 @@ showEdit: false
 This is where it begins, huh?
 {{< /lead >}}
 
-<h2>Welcome!</h2>
+## Welcome!
 Well, first of all, let me just say - welcome to my blog! No matter how you ended up here, I hope that you enjoy witnessing my little corner of the internet :)
 <br></br>
 I'm not 100% sure how active I'll actually end up being here, but I figured it would still be a fun little project regardless - maybe something I can look back on in a few years' time?
