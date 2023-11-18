@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Testing"
 date: 2023-11-01
 draft: false
 description: "Some real-life Congo examples."
